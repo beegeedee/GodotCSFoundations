@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://7gfjm5rs0qa6"]
+
+[ext_resource type="Script" uid="uid://dggowwtf5yj61" path="res://Scenes/Ocean.cs" id="1_q5nav"]
+
+[node name="Node2D" type="Node2D" unique_id=669510520]
+script = ExtResource("1_q5nav")
