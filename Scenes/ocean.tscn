@@ -1,6 +1,11 @@
 [gd_scene format=3 uid="uid://7gfjm5rs0qa6"]
 
 [ext_resource type="Script" uid="uid://dggowwtf5yj61" path="res://Scenes/Ocean.cs" id="1_q5nav"]
+[ext_resource type="Texture2D" uid="uid://dfdjk32ai6v08" path="res://Assets/Water.png" id="2_bf311"]
 
 [node name="Node2D" type="Node2D" unique_id=669510520]
 script = ExtResource("1_q5nav")
+
+[node name="Water" type="Sprite2D" parent="." unique_id=1009373653]
+position = Vector2(576, 324)
+texture = ExtResource("2_bf311")

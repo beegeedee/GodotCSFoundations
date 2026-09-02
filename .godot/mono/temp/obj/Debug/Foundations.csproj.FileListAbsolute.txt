@@ -15,3 +15,4 @@ C:\Development\Learning\GodotLearning\Foundations\foundations\.godot\mono\temp\o
 C:\Development\Learning\GodotLearning\Foundations\foundations\.godot\mono\temp\obj\Debug\Foundations.pdb
 C:\Development\Learning\GodotLearning\Foundations\foundations\.godot\mono\temp\obj\Debug\Foundations.genruntimeconfig.cache
 C:\Development\Learning\GodotLearning\Foundations\foundations\.godot\mono\temp\obj\Debug\ref\Foundations.dll
+C:\Development\Learning\GodotLearning\Foundations\foundations\.godot\mono\temp\obj\Debug\Foundations.sourcelink.json
